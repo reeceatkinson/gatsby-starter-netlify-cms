@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Why is SSO Important?
 date: 2022-05-07T09:14:42.682Z
 description: I use SSO. Are you?
-featuredpost: true
+featuredpost: false
 featuredimage: /img/pattern_brick-wall-2_1_3_0-0_45_1__ffffff_2f51e9_00ffcc.png
 tags:
   - sso
